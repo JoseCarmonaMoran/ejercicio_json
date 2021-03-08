@@ -1,0 +1,952 @@
+{
+    " peliculas " : [
+      {
+          " titulo " : " Aladdin " ,
+          " poster " : " images / aladdin.jpg " ,
+          " director " : [ " Ron Clements " , " John Musker " ],
+          " precio " : 15.5 ,
+          " categoria " : [ " Animación " , " Aventura " , " Familia " ],
+          " anno " : 1999 ,
+          " desc " : " Cuando un pilluelo de la calle compite por el amor de una hermosa princesa, usa el poder mágico de un genio para hacerse pasar por un príncipe y casarse con ella. " ,
+          " actores " : [
+              {
+                  " nombre " : " Scott Weinger " ,
+                  " personaje " : " Aladdin "
+              },
+              {
+                  " nombre " : " Robin Williams " ,
+                     " personaje " : " Genio "
+              },
+              {
+                  " nombre " : " Jonathan Freeman " ,
+                  " personaje " : " Jafar "
+              },
+              {
+                  " nombre " : " Robin Williams " ,
+                  " personaje " : " Genio "
+              },
+              {
+                  " nombre " : " Linda Larkin " ,
+                  " personaje " : " Jasmine "
+              }
+          ]
+      },
+      {
+          " titulo " : " Harry Potter y la piedra filosofal " ,
+          " poster " : " images / harry_potter.jpg " ,
+          " director " : [ " Chris Columbus " ],
+          " precio " : 9.99 ,
+          " categoria " : [ " Fantasía " , " Aventura " , " Familia " ],
+          " anno " : 2001 ,
+          " desc " : " Un niño huérfano se inscribe en una escuela de hechicería, donde aprende la verdad sobre sí mismo, su familia y el terrible mal que acecha al mundo mágico. " ,
+          " actores " : [
+              {
+                  " nombre " : " Daniel Radcliffe " ,
+                  " personaje " : " Harry Potter "
+              },
+              {
+                  " nombre " : " Rupert Grint " ,
+                     " personaje " : " Ron Weasley "
+              },
+              {
+                  " nombre " : " Emma Watson " ,
+                  " personaje " : " Hermione Granger "
+              },
+              {
+                  " nombre " : " Alan Rickman " ,
+                  " personaje " : " Severus Snape "
+              },
+              {
+                  " nombre " : " Maggie Smith " ,
+                  " personaje " : " Minerva McGonagall "
+              }
+          ]
+      },
+      {
+          " titulo " : " Harry Potter y el prisionero de Azkaban " ,
+          " poster " : " images / harry_potter_3.jpg " ,
+          " director " : [ " Alfonso Cuaron " ],
+          " precio " : 9.99 ,
+          " categoria " : [ " Fantasía " , " Aventura " , " Familia " ],
+          " anno " : 2004 ,
+          " desc " : " Es el tercer año de Harry en Hogwarts; no solo tiene un nuevo maestro de 'Defensa contra las artes oscuras', sino que también se avecinan problemas. El asesino convicto Sirius Black ha escapado de la prisión de los magos y viene tras Harry. . " ,
+          " actores " : [
+              {
+                  " nombre " : " Daniel Radcliffe " ,
+                  " personaje " : " Harry Potter "
+              },
+              {
+                  " nombre " : " Rupert Grint " ,
+                     " personaje " : " Ron Weasley "
+              },
+              {
+                  " nombre " : " Emma Watson " ,
+                  " personaje " : " Hermione Granger "
+              },
+              {
+                  " nombre " : " Alan Rickman " ,
+                  " personaje " : " Severus Snape "
+              },
+              {
+                  " nombre " : " Maggie Smith " ,
+                  " personaje " : " Minerva McGonagall "
+              }
+          ]
+      },
+      {
+          " titulo " : " Harry Potter y el cáliz de fuego " ,
+          " poster " : " images / harry_potter_4.jpg " ,
+          " director " : [ " Mike Newell " ],
+          " precio " : 9.99 ,
+          " categoria " : [ " Fantasía " , " Aventura " , " Familia " ],
+          " anno " : 2005 ,
+          " desc " : " Un joven mago se encuentra compitiendo en un torneo peligroso entre escuelas de magia rivales, pero se distrae con pesadillas recurrentes. " ,
+          " actores " : [
+              {
+                  " nombre " : " Daniel Radcliffe " ,
+                  " personaje " : " Harry Potter "
+              },
+              {
+                  " nombre " : " Rupert Grint " ,
+                     " personaje " : " Ron Weasley "
+              },
+              {
+                  " nombre " : " Emma Watson " ,
+                  " personaje " : " Hermione Granger "
+              },
+              {
+                  " nombre " : " Alan Rickman " ,
+                  " personaje " : " Severus Snape "
+              },
+              {
+                  " nombre " : " Maggie Smith " ,
+                  " personaje " : " Minerva McGonagall "
+              }
+          ]
+      },
+      {
+          " titulo " : " Harry Potter y la cámara secreta " ,
+          " poster " : " images / harry_potter_2.jpg " ,
+          " director " : [ " Chris Columbus " ],
+          " precio " : 9.99 ,
+          " categoria " : [ " Fantasía " , " Aventura " , " Familia " ],
+          " anno " : 2002 ,
+          " desc " : " Una antigua profecía parece hacerse realidad cuando una presencia misteriosa comienza a acechar los pasillos de una escuela de magia y deja a sus víctimas paralizadas. " ,
+          " actores " : [
+              {
+                  " nombre " : " Daniel Radcliffe " ,
+                  " personaje " : " Harry Potter "
+              },
+              {
+                  " nombre " : " Rupert Grint " ,
+                     " personaje " : " Ron Weasley "
+              },
+              {
+                  " nombre " : " Emma Watson " ,
+                  " personaje " : " Hermione Granger "
+              },
+              {
+                  " nombre " : " Alan Rickman " ,
+                  " personaje " : " Severus Snape "
+              },
+              {
+                  " nombre " : " Maggie Smith " ,
+                  " personaje " : " Minerva McGonagall "
+              }
+          ]
+      },
+      {
+          " titulo " : " Harry Potter y la Orden del Fénix " ,
+          " poster " : " images / harry_potter_5.jpg " ,
+          " director " : [ " David Yates " ],
+          " precio " : 9.99 ,
+          " categoria " : [ " Fantasía " , " Aventura " , " Familia " ],
+          " anno " : 2007 ,
+          " desc " : " Con su advertencia sobre el regreso de Lord Voldemort burlada, Harry y Dumbledore son el blanco de las autoridades de los magos mientras un burócrata autoritario toma lentamente el poder en Hogwarts. " ,
+          " actores " : [
+              {
+                  " nombre " : " Daniel Radcliffe " ,
+                  " personaje " : " Harry Potter "
+              },
+              {
+                  " nombre " : " Rupert Grint " ,
+                     " personaje " : " Ron Weasley "
+              },
+              {
+                  " nombre " : " Emma Watson " ,
+                  " personaje " : " Hermione Granger "
+              },
+              {
+                  " nombre " : " Alan Rickman " ,
+                  " personaje " : " Severus Snape "
+              },
+              {
+                  " nombre " : " Maggie Smith " ,
+                  " personaje " : " Minerva McGonagall "
+              }
+          ]
+      },
+      {
+          " titulo " : " Harry Potter y el príncipe mestizo " ,
+          " poster " : " images / harry_potter_6.jpg " ,
+          " director " : [ " David Yates " ],
+          " precio " : 9.99 ,
+          " categoria " : [ " Fantasía " , " Aventura " , " Familia " ],
+          " anno " : 2009 ,
+          " desc " : " Cuando Harry Potter comienza su sexto año en Hogwarts, descubre un viejo libro marcado como 'propiedad del Príncipe Mestizo' y comienza a aprender más sobre el oscuro pasado de Lord Voldemort. " ,
+          " actores " : [
+              {
+                  " nombre " : " Daniel Radcliffe " ,
+                  " personaje " : " Harry Potter "
+              },
+              {
+                  " nombre " : " Rupert Grint " ,
+                     " personaje " : " Ron Weasley "
+              },
+              {
+                  " nombre " : " Emma Watson " ,
+                  " personaje " : " Hermione Granger "
+              },
+              {
+                  " nombre " : " Alan Rickman " ,
+                  " personaje " : " Severus Snape "
+              },
+              {
+                  " nombre " : " Maggie Smith " ,
+                  " personaje " : " Minerva McGonagall "
+              }
+          ]
+      },
+      {
+          " titulo " : " Harry Potter y las Reliquias de la Muerte Parte 1 " ,
+          " poster " : " images / harry_potter_7.jpg " ,
+          " director " : [ " David Yates " ],
+          " precio " : 9.99 ,
+          " categoria " : [ " Fantasía " , " Aventura " , " Familia " ],
+          " anno " : 2010 ,
+          " desc " : " Mientras Harry corre contra el tiempo y el mal para destruir los Horrocruxes, descubre la existencia de los tres objetos más poderosos del mundo mágico: las Reliquias de la Muerte " ,
+          " actores " : [
+              {
+                  " nombre " : " Daniel Radcliffe " ,
+                  " personaje " : " Harry Potter "
+              },
+              {
+                  " nombre " : " Rupert Grint " ,
+                     " personaje " : " Ron Weasley "
+              },
+              {
+                  " nombre " : " Emma Watson " ,
+                  " personaje " : " Hermione Granger "
+              },
+              {
+                  " nombre " : " Alan Rickman " ,
+                  " personaje " : " Severus Snape "
+              },
+              {
+                  " nombre " : " Maggie Smith " ,
+                  " personaje " : " Minerva McGonagall "
+              }
+          ]
+      },
+      {
+          " titulo " : " Harry Potter y las Reliquias de la Muerte Parte 2 " ,
+          " poster " : " images / harry_potter_8.jpg " ,
+          " director " : [ " David Yates " ],
+          " precio " : 9.99 ,
+          " categoria " : [ " Fantasía " , " Aventura " , " Familia " ],
+          " anno " : 2011 ,
+          " desc " : " Harry, Ron y Hermione buscan los Horrocruxes restantes de Voldemort en su esfuerzo por destruir al Señor Oscuro mientras la batalla final continúa en Hogwarts. " ,
+          " actores " : [
+              {
+                  " nombre " : " Daniel Radcliffe " ,
+                  " personaje " : " Harry Potter "
+              },
+              {
+                  " nombre " : " Rupert Grint " ,
+                     " personaje " : " Ron Weasley "
+              },
+              {
+                  " nombre " : " Emma Watson " ,
+                  " personaje " : " Hermione Granger "
+              },
+              {
+                  " nombre " : " Alan Rickman " ,
+                  " personaje " : " Severus Snape "
+              },
+              {
+                  " nombre " : " Maggie Smith " ,
+                  " personaje " : " Minerva McGonagall "
+              }
+          ]
+      },
+      {
+            " titulo " : " Pantera Negra " ,
+            " poster " : " images / black_panther.jpg " ,
+            " director " : [ " Ryan Coogler " ],
+            " precio " : 28 ,
+            " categoria " : [ " Acción " , " Aventura " , " Ciencia ficción " ],
+      " anno " : 2018 ,
+      " desc " : " T'Challa, heredero del reino oculto pero avanzado de Wakanda, debe dar un paso adelante para llevar a su gente a un nuevo futuro y debe enfrentarse a un retador del pasado de su país " ,
+            " actores " : [
+              {
+                " nombre " : " Chadwick Boseman " ,
+                " personaje " : " T'Challa "
+              },
+              {
+                  " nombre " : " Michael B.Jordan " ,
+                  " personaje " : " Erik Killmonger "
+              },
+              {
+                  " nombre " : " Lupita Nyong'o " ,
+                  " personaje " : " Nakia "
+                },
+              {
+                  " nombre " : " Danai Gurira " ,
+                  " personaje " : " Okoye "
+              }
+            ]	
+      },
+      {
+            " titulo " : " Capitán América: El primer vengador " ,
+            " poster " : " images / captain_america.jpg " ,
+            " director " : [ " Joe Johnston " ],
+            " precio " : 23.99 ,
+            " categoria " : [ " Acción " , " Aventura " , " Ciencia ficción " ],
+            " anno " : 2011 ,
+      " desc " : " Steve Rogers, un soldado militar rechazado se transforma en el Capitán América después de tomar una dosis de un 'suero de súper soldado'. Pero ser Capitán América tiene un precio ya que intenta acabar con un guerrero y una organización terrorista. . " ,
+            " actores " : [
+              {
+                  " nombre " : " Chris Evans " ,
+                  " personaje " : " Steve Rogers "
+              },
+              {
+              " nombre " : " Hayley Atwell " ,
+              " personaje " : " Peggy Carter "
+              },
+              {
+              " nombre " : " Sebastian Stan " ,
+              " personaje " : " James Buchanan 'Bucky' Banrnes "
+               }
+            ]
+      },
+      {
+            " titulo " : " Coco " ,
+            " poster " : " images / coco.jpg " ,
+            " director " : [ " Lee Inkrich " , " Adrian Molina " ],
+            " precio " : 27 ,
+            " categoria " : [ " Animación " , " Aventura " , " Comedia " ],
+            " anno " : 2017 ,
+      " desc " : "El aspirante a músico Miguel, confrontado con la prohibición ancestral de la música de su familia, entra en la Tierra de los Muertos para encontrar a su tatarabuelo, un cantante legendario " ,
+            " actores " : [
+              {
+                    " nombre " : " Anthony González " ,
+                    " personaje " : " Miguel "
+              },
+              {
+                  " nombre " : " Gael García Bernal " ,
+                  " personaje " : " Héctor "
+              },
+              {
+                  " nombre " : " Benjamin Bratt " ,
+                  " personaje " : " Ernesto de la Cruz "
+              }
+            ]
+      },
+      {
+          " titulo " : " Mary Poppins " ,
+          " poster " : " images / mary_poppins.jpg " ,
+          " director " : [ " Robert Stevenson " ],
+          " precio " : 13.99 ,
+          " categoria " : [ " Comedia " , " Familia " , " Fantasía " , " Musical " ],
+          " anno " : 1964 ,
+          " desc " : " En el Londres de cambio de siglo, una niñera mágica emplea la música y la aventura para ayudar a dos niños abandonados a acercarse más a su padre " ,
+          " actores " : [
+              {
+                  " nombre " : " Julie Andrews " ,
+                  " personaje " : " Mary Poppins "
+              },
+              {
+                  " nombre " : " Dick Van Dyke " ,
+                  " personaje " : " Bert "
+              },
+              {
+                  " nombre " : " David Tomlinson " ,
+                  " personaje " : " Mr Banks "
+              },
+              {
+                  " nombre " : " Karen Dotrice " ,
+                  " personaje " : " Jane Banks "
+              },
+              {
+                  " nombre " : " Matthew Garber " ,
+                  " personaje " : " Michael Banks "
+              }
+            ]
+      },
+      {
+          " titulo " : " Pulp Fiction " ,
+          " poster " : " images / pulp_fiction.jpg " ,
+          " director " : [ " Quentin Tarantino " ],
+          " precio " : 7.99 ,
+          " categoria " : [ " Crimen " , " Drama " ],
+          " anno " : 1994 ,
+          " desc " : " Las vidas de dos sicarios de la mafia, un boxeador, la esposa de un gángster y un par de bandidos comensales se entrelazan en cuatro historias de violencia y redención. " ,
+          " actores " : [
+              {
+                  " nombre " : " John Travolta " ,
+                  " personaje " : " Vincent Vega "
+              },
+              {
+                  " nombre " : " Samuel L. Jackson " ,
+                  " personaje " : " Jules Winnfield "
+              },
+              { 
+                  " nombre " : " Bruce Willis " ,
+                  " personaje " : " Butch Coolidge "
+              }
+          ]
+      },
+      {
+          " titulo " : " Los sospechosos habituales " ,
+          " poster " : " images / the_usual_suspects.jpg " ,
+          " director " : [ " Bryan Singer " ],
+          " precio " : 7.99 ,
+          " categoria " : [ " Crimen " , " Drama " , " Thriller " ],
+          " anno " : 1995 ,
+          " desc " : " Un único superviviente cuenta los sucesos sinuosos que llevaron a un terrible tiroteo en un barco, que comenzó cuando cinco criminales se encontraron en una alineación policial aparentemente aleatoria. " ,
+          " actores " : [
+              {
+                  " nombre " : " Kevin Spacey " ,
+                  " personaje " : " Verbal "
+              },
+              {
+                  " nombre " : " Gabriel Byrne " ,
+                  " personaje " : " Keaton "
+              },
+              { 
+                  " nombre " : " Stephen Baldwin " ,
+                  " personaje " : " McManus "
+              },
+              {
+                  " nombre " : " Benicio Del Toro " ,
+                  " personaje " : " Fenster "
+              },
+              {
+                  " nombre " : " Kevin Pollack " ,
+                  " personaje " : " Hockney "
+              },
+              { 
+                  " nombre " : " Chazz Palminteri " ,
+                  " personaje " : " Dave Kujan "
+              }
+          ]
+      },
+      {
+          " titulo " : " Los Vengadores " ,
+          " poster " : " images / the_avengers.jpg " ,
+          " director " : [ " Joss Wheldon " ],
+          " precio " : 5.99 ,
+          " categoria " : [ " Acción " , " Aventura " , " Ciencia ficción " ],
+          " anno " : 2012 ,
+          " desc " : " Los héroes más poderosos de la Tierra deben unirse y aprender a luchar en equipo si quieren evitar que el travieso Loki y su ejército alienígena esclavicen a la humanidad. " ,
+          " actores " : [
+              {
+                  " nombre " : " Robert Downey Jr " ,
+                  " personaje " : " Tony Stark "
+              },
+              {
+                  " nombre " : " Chris Evans " ,
+                  " personaje " : " Capitán América "
+              },
+              { 
+                  " nombre " : " Scarlett Johansson " ,
+                  " personaje " : " Viuda Negra "
+              },
+              {
+                  " nombre " : " Mark Ruffalo " ,
+                  " personaje " : " Bruce Banner / The Hulk "
+              },
+              {
+                  " nombre " : " Chris Hemsworth " ,
+                  " personaje " : " Thor "
+              },
+              { 
+                  " nombre " : " Tom Hiddleston " ,
+                  " personaje " : " Loki "
+              }
+            ]
+      },
+      {
+          " titulo " : " El Padrino " ,
+          " poster " : " images / the_godfather.jpg " ,
+          " director " : [ " Francis Ford Coppola " ],
+          " precio " : 5.99 ,
+          " categoria " : [ " Crimen " , " Drama " ],
+          " anno " : 1972 ,
+          " desc " : " El anciano patriarca de una dinastía del crimen organizado transfiere el control de su imperio clandestino a su renuente hijo. " ,
+          " actores " : [
+              {
+                  " nombre " : " Al Pacino " ,
+                  " personaje " : " Michael Corleone "
+              },
+              {
+                  " nombre " : " Marlon Brando " ,
+                  " personaje " : " Don Vito Corleone "
+              },
+              {
+                  " nombre " : " James Caan " ,
+                  " personaje " : " Sonny Corleone "
+              },
+              {
+                  " nombre " : " Diane Keaton " ,
+                  " personaje " : " Kay Adams "
+              }
+          ]
+      },
+      {
+          " titulo " : " Los juegos del hambre " ,
+          " poster " : " images / the_hunger_games_1.jpg " ,
+          " director " : [ " Gary Ross " ],
+          " precio " : 7.99 ,
+          " categoria " : [ " Aventura " , " Ciencia ficción " , " Thriller " ],
+          " anno " : 2012 ,
+          " desc " : " Katniss Everdeen voluntariamente toma el lugar de su hermana menor en los Juegos del Hambre: una competencia televisada en la que dos adolescentes de cada uno de los doce Distritos de Panem son elegidos al azar para luchar hasta la muerte. " ,
+          " actores " : [
+              {
+                  " nombre " : " Jennifer Lawrence " ,
+                  " personaje " : " Katniss Everdeen "
+              },
+              {
+                  " nombre " : " Josh Hutcherson " ,
+                  " personaje " : " Peeta Mellark "
+              },
+              { 
+                  " nombre " : " Liam Hemsworth " ,
+                  " personaje " : " Gale Hawthorne "
+              },
+              {
+                  " nombre " : " Stanley Tucci " ,
+                  " personaje " : " Caesar Flickerman "
+              }
+            ]
+      },
+      {
+          " titulo " : " Los juegos del hambre: en llamas " ,
+          " poster " : " images / the_hunger_games_2.jpg " ,
+          " director " : [ " Francis Lawrence " ],
+          " precio " : 7.99 ,
+          " categoria " : [ " Acción " , " Aventura " , " Misterio " ],
+          " anno " : 2013 ,
+          " desc " : " Katniss Everdeen y Peeta Mellark se convierten en objetivos del Capitolio después de que su victoria en los 74º Juegos del Hambre provoque una rebelión en los Distritos de Panem. " ,
+          " actores " : [
+              {
+                  " nombre " : " Jennifer Lawrence " ,
+                  " personaje " : " Katniss Everdeen "
+              },
+              {
+                  " nombre " : " Josh Hutcherson " ,
+                  " personaje " : " Peeta Mellark "
+              },
+              { 
+                  " nombre " : " Liam Hemsworth " ,
+                  " personaje " : " Gale Hawthorne "
+              },
+              {
+                  " nombre " : " Stanley Tucci " ,
+                  " personaje " : " Caesar Flickerman "
+              }
+            ]
+      },
+      {
+          " titulo " : " Los juegos del hambre: Mocking Jay Part I " ,
+          " poster " : " images / the_hunger_games_3.jpg " ,
+          " director " : [ " Francis Lawrence " ],
+          " precio " : 12.99 ,
+          " categoria " : [ " Acción " , " Aventura " , " Ciencia ficción " , " Thriller " ],
+          " anno " : 2014 ,
+          " desc " : " Katniss Everdeen está en el Distrito 13 después de romper los juegos para siempre. Bajo el liderazgo del presidente Coin y el consejo de sus amigos de confianza, Katniss extiende sus alas mientras lucha para salvar a Peeta y a una nación impulsada por su coraje. " ,
+          " actores " : [
+              {
+                  " nombre " : " Jennifer Lawrence " ,
+                  " personaje " : " Katniss Everdeen "
+              },
+              {
+                  " nombre " : " Josh Hutcherson " ,
+                  " personaje " : " Peeta Mellark "
+              },
+              { 
+                  " nombre " : " Liam Hemsworth " ,
+                  " personaje " : " Gale Hawthorne "
+              },
+              {
+                  " nombre " : " Stanley Tucci " ,
+                  " personaje " : " Caesar Flickerman "
+              }
+            ]
+      },
+      {
+          " titulo " : " Los juegos del hambre: Mocking Jay Part II " ,
+          " poster " : " images / the_hunger_games_4.jpg " ,
+          " director " : [ " Francis Lawrence " ],
+          " precio " : 15.99 ,
+          " categoria " : [ " Acción " , " Aventura " , " Ciencia ficción " , " Thriller " ],
+          " anno " : 2015 ,
+          " desc " : " Katniss y un equipo de rebeldes del Distrito 13 se preparan para la batalla final que decidirá el futuro de Panem. " ,
+          " actores " : [
+              {
+                  " nombre " : " Jennifer Lawrence " ,
+                  " personaje " : " Katniss Everdeen "
+              },
+              {
+                  " nombre " : " Josh Hutcherson " ,
+                  " personaje " : " Peeta Mellark "
+              },
+              { 
+                  " nombre " : " Liam Hemsworth " ,
+                  " personaje " : " Gale Hawthorne "
+              },
+              {
+                  " nombre " : " Stanley Tucci " ,
+                  " personaje " : " Caesar Flickerman "
+              }
+            ]
+      },
+      {
+          " titulo " : "El señor de los anillos: La comunidad del anillo " ,
+          " poster " : " images / the_lord_of_the_rings_1.jpg " ,
+          " director " : [ " Peter Jackson " ],
+          " precio " : 8.99 ,
+          " categoria " : [ " Aventura " , " Drama " , " Fantasía " ],
+          " anno " : 2001 ,
+          " desc " : " Un humilde Hobbit de la Comarca y ocho compañeros emprenden un viaje para destruir el poderoso Anillo Único y salvar la Tierra Media del Señor Oscuro Sauron. " ,
+          " actores " : [
+              {
+                  " nombre " : " Elijah Wood " ,
+                  " personaje " : " Frodo "
+              },
+              {
+                  " nombre " : " Sean Asten " ,
+                  " personaje " : " Sam "
+              },
+              {
+                  " nombre " : " Sean Bean " ,
+                  " personaje " : " Boromir "
+              },
+              { 
+                  " nombre " : " Orlando Bloom " ,
+                  " personaje " : " Legolas "
+              },
+              {
+                  " nombre " : " Ian Holm " ,
+                  " personaje " : " Bilbo "
+              },
+              {
+                  " nombre " : " Christopher Lee " ,
+                  " personaje " : " Saruman "
+              },
+              { 
+                  " nombre " : " Ian McKellen " ,
+                  " personaje " : " Gandalf "
+              }
+          ]
+      },
+      {
+          " titulo " : "El señor de los anillos: Las dos torres " ,
+          " poster " : " images / the_lord_of_the_rings_2.jpg " ,
+          " director " : [ " Peter Jackson " ],
+          " precio " : 8.99 ,
+          " categoria " : [ " Aventura " , " Drama " , " Fantasía " ],
+          " anno " : 2002 ,
+          " desc " : " Mientras Frodo y Sam se acercan a Mordor con la ayuda del astuto Gollum, la fraternidad dividida se opone al nuevo aliado de Sauron, Saruman, y sus hordas de Isengard. " ,
+          " actores " : [
+              {
+                  " nombre " : " Elijah Wood " ,
+                  " personaje " : " Frodo "
+              },
+              {
+                  " nombre " : " Sean Asten " ,
+                  " personaje " : " Sam "
+              },
+              {
+                  " nombre " : " Sean Bean " ,
+                  " personaje " : " Boromir "
+              },
+              { 
+                  " nombre " : " Orlando Bloom " ,
+                  " personaje " : " Legolas "
+              },
+              {
+                  " nombre " : " Ian Holm " ,
+                  " personaje " : " Bilbo "
+              },
+              {
+                  " nombre " : " Christopher Lee " ,
+                  " personaje " : " Saruman "
+              },
+              { 
+                  " nombre " : " Ian McKellen " ,
+                  " personaje " : " Gandalf "
+              }
+            ]
+      },
+      {
+          " titulo " : "El señor de los anillos: El regreso del rey " ,
+          " poster " : " images / the_lord_of_the_rings_1.jpg " ,
+          " director " : [ " Peter Jackson " ],
+          " precio " : 8.99 ,
+          " categoria " : [ " Aventura " , " Drama " , " Fantasía " ],
+          " anno " : 2003 ,
+          " desc " : " Gandalf y Aragorn lideran el Mundo de los Hombres contra el ejército de Sauron para desviar su mirada de Frodo y Sam mientras se acercan al Monte Doom con el Anillo Único. " ,
+          " actores " : [
+              {
+                  " nombre " : " Elijah Wood " ,
+                  " personaje " : " Frodo "
+              },
+              {
+                  " nombre " : " Sean Asten " ,
+                  " personaje " : " Sam "
+              },
+              {
+                  " nombre " : " Sean Bean " ,
+                  " personaje " : " Boromir "
+              },
+              { 
+                  " nombre " : " Orlando Bloom " ,
+                  " personaje " : " Legolas "
+              },
+              {
+                  " nombre " : " Ian Holm " ,
+                  " personaje " : " Bilbo "
+              },
+              {
+                  " nombre " : " Christopher Lee " ,
+                  " personaje " : " Saruman "
+              },
+              { 
+                  " nombre " : " Ian McKellen " ,
+                  " personaje " : " Gandalf "
+              }
+          ]
+      },
+      {
+          " titulo " : " Cenicienta " ,
+          " poster " : " images / cinderella.jpg " ,
+          " director " : [ " Clyde Geronimi " , " Hamilton Luske " , " Wilfred Jackson " ],
+          " precio " : 13.99 ,
+          " categoria " : [ " Animación " , " Familia " , " Musical " ],
+          " anno " : 1950 ,
+          " desc " : " Cuando la cruel madrastra de Cenicienta le impide asistir al Baile Real, recibe una ayuda inesperada de los adorables ratones Gus y Jaq, y de su Hada Madrina. " ,
+          " actores " : [
+              {
+                  " nombre " : " Ilene Woods " ,
+                  " personaje " : " Cenicienta "
+              },
+              {
+                  " nombre " : " Eleanor Audley " ,
+                  " personaje " : " Lady Tremaine "
+              },
+              {
+                  " nombre " : " Verna Felton " ,
+                  " personaje " : " Hada madrina "
+              },
+              {
+                  " nombre " : " James MacDonald " ,
+                  " personaje " : " Jaq / Gus "
+              },
+              {
+                  " nombre " : " Luis Van Rooten " ,
+                  " personaje " : " Rey / Gran Duque "
+              }
+            ]
+      },
+      {
+          " titulo " : " El Rey León " ,
+          " poster " : " images / lion_king.jpg " ,
+          " director " : [ " Roger Allers " , " Rob Minkoff " ],
+          " precio " : 7.99 ,
+          " categoria " : [ " Animación " , " Aventura " , " Drama " ],
+          " anno " : 1994 ,
+          " desc " : " Un príncipe heredero cachorro de León es engañado por un tío traicionero haciéndole creer que causó la muerte de su padre y huye al exilio desesperado, solo para descubrir en la edad adulta su identidad y sus responsabilidades. " ,
+          " actores " : [
+              {
+                  " nombre " : " Rowan Atkinson " ,
+                  " personaje " : " Zazu "
+              },
+              {
+                  " nombre " : " Matthew Broderick " ,
+                  " personaje " : " Simba "
+              },
+              {
+                  " nombre " : " Robert Guillaume " ,
+                  " personaje " : " Rafiki "
+              },
+              { 
+                  " nombre " : " Whoopi Goldberg " ,
+                  " personaje " : " Shenzi "
+              }
+          ]
+      },
+      {
+          " titulo " : " Toy Story " ,
+          " poster " : " images / toy_story.jpg " ,
+          " director " : [ " John Lasseter " ],
+          " precio " : 7.99 ,
+          " categoria " : [ " Animación " , " Aventura " , " Comedia " ],
+          " anno " : 1995 ,
+          " desc " : " Un muñeco de vaquero se siente profundamente amenazado y celoso cuando una nueva figura de astronauta lo suplanta como juguete superior en la habitación de un niño. " ,
+          " actores " : [
+              {
+                  " nombre " : " Tom Hanks " ,
+                  " personaje " : " Woody "
+              },
+              {
+                  " nombre " : " Tim Allen " ,
+                  " personaje " : " Buzz Lightyear "
+              },
+              { 
+                  " nombre " : " Don Rickles " ,
+                  " personaje " : " Mr. Potatohead "
+              }
+          ]
+      },
+      {
+          " titulo " : "La Bella y la Bestia " ,
+          " poster " : " images / beauty_andthe_beast.jpg " ,
+          " director " : [ " Gary Trousdale " , " Kirk Wise " ],
+          " precio " : 5.99 ,
+          " categoria " : [ " Animación " , " Aventura " , " Fantasía " ],
+          " anno " : 1991 ,
+          " desc " : " Un príncipe egoísta está condenado a convertirse en un monstruo por el resto de su vida, a menos que aprenda a enamorarse de una hermosa joven a la que mantiene prisionera. " ,
+          " actores " : [
+              {
+                  " nombre " : " Paige O'Hara " ,
+                  " personaje " : " Belle "
+              },
+              {
+                  " nombre " : " Robby Benson " ,
+                  " personaje " : " Bestia "
+              },
+              { 
+                  " nombre " : " Angela Lansbury " ,
+                  " personaje " : " Sra. Potts "
+              },
+              {
+                  " nombre " : " Jerry Orbach " ,
+                  " personaje " : " Lumiere "
+              },
+              {
+                  " nombre " : " David Ogden Stiers " ,
+                  " personaje " : " Cogsworth "
+              },
+              { 
+                  " nombre " : " Jesse Corti " ,
+                  " personaje " : " Lefou "
+              }
+            ]
+      },
+      {
+          " titulo " : " La Sirenita " ,
+          " poster " : " images / little_mermaid.jpg " ,
+          " director " : [ " Ron Clements " , " John Musker " ],
+          " precio " : 5.99 ,
+          " categoria " : [ " Animación " , " Familia " , " Fantasía " ],
+          " anno " : 1989 ,
+          " desc " : " Una princesa sirena hace un trato fáustico con una bruja marina sin escrúpulos para encontrarse con un príncipe humano en tierra. " ,
+          " actores " : [
+              {
+                  " nombre " : " Jodi Benson " ,
+                  " personaje " : " Ariel "
+              },
+              {
+                  " nombre " : " Samuel E. Wright " ,
+                  " personaje " : " Sebastian "
+              },
+              {
+                  " nombre " : " Pat Carroll " ,
+                  " personaje " : " Ursula "
+              },
+              {
+                  " nombre " : " Ben Wright " ,
+                  " personaje " : " Grimsby "
+              }
+          ]
+      },
+      {
+          " titulo " : " Piratas del Caribe: La maldición del Perla Negra " ,
+          " poster " : " images / pirates_of_the_caribbean_1.jpg " ,
+          " director " : [ " Gore Verbinski " ],
+          " precio " : 7.99 ,
+          " categoria " : [ " Aventura " , " Acción " , " Fantasía " ],
+          " anno " : 2003 ,
+          " desc " : "El herrero Will Turner se une al excéntrico pirata 'Capitán' Jack Sparrow para salvar a su amor, la hija del gobernador, de los antiguos aliados piratas de Jack, que ahora son no muertos. " ,
+          " actores " : [
+              {
+                  " nombre " : " Johnny Depp " ,
+                  " personaje " : " Jack Sparrow "
+              },
+              {
+                  " nombre " : " Kiera Knightly " ,
+                  " personaje " : " Elizabeth Swann "
+              },
+              { 
+                  " nombre " : " Orlando Bloom " ,
+                  " personaje " : " Will Turner "
+              },
+              {
+                  " nombre " : " Geoffrey Rush " ,
+                  " personaje " : " Capitán Barbosa "
+              }
+            ]
+      },
+      {
+          " titulo " : " Piratas del Caribe: El cofre del hombre muerto " ,
+          " poster " : " images / pirates_of_the_caribbean_2.jpg " ,
+          " director " : [ " Gore Verbinski " ],
+          " precio " : 7.99 ,
+          " categoria " : [ " Aventura " , " Acción " , " Fantasía " ],
+          " anno " : 2006 ,
+          " desc " : " Jack Sparrow corre para recuperar el corazón de Davy Jones para evitar esclavizar su alma al servicio de Jones, mientras otros amigos y enemigos también buscan el corazón para su propia agenda. " ,
+          " actores " : [
+              {
+                  " nombre " : " Johnny Depp " ,
+                  " personaje " : " Jack Sparrow "
+              },
+              {
+                  " nombre " : " Kiera Knightly " ,
+                  " personaje " : " Elizabeth Swann "
+              },
+              { 
+                  " nombre " : " Orlando Bloom " ,
+                  " personaje " : " Will Turner "
+              }
+            ]
+      },
+      {
+          " titulo " : " Piratas del Caribe: en el fin del mundo " ,
+          " poster " : " images / pirates_of_the_caribbean_3.jpg " ,
+          " director " : [ " Gore Verbinski " ],
+          " precio " : 7.99 ,
+          " categoria " : [ " Aventura " , " Acción " , " Fantasía " ],
+          " anno " : 2007 ,
+          " desc " : "El Capitán Barbossa, Will Turner y Elizabeth Swann deben navegar por el borde del mapa, navegar por la traición y la traición, encontrar a Jack Sparrow y hacer sus alianzas finales para una última batalla decisiva. " ,
+          " actores " : [
+              {
+                  " nombre " : " Johnny Depp " ,
+                  " personaje " : " Jack Sparrow "
+              },
+              {
+                  " nombre " : " Kiera Knightly " ,
+                  " personaje " : " Elizabeth Swann "
+              },
+              { 
+                  " nombre " : " Orlando Bloom " ,
+                  " personaje " : " Will Turner "
+              },
+              {
+                  " nombre " : " Geoffrey Rush " ,
+                  " personaje " : " Capitán Barbosa "
+              }
+            ]
+      }
+  ]
+}
