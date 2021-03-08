@@ -1,6 +1,7 @@
 # ejercicio_json
-1. Listar información: lista las fechas de los partidos de cuartos de final.
-2. Contar información: ¿cuantos goles se han producido en cuartos de finales?
-3. Buscar o filtrar información: indica el equipo de fútbol para saber cuantos goles tiene a favor y cuantos en contra en cuartos de finales.
-4. Buscar información relacionada:  Introduce el nombre del equipo de fútbol y de mostrara la fecha de sus partidos en cuartos de finales.
-5. Ejercicio libre: introduce el equipo de fútbol y mostrar su país y el nombre de su estadio de fútbol.
+1. Listar información: listar los títulos de las películas y su precio.
+2. Contar información: introduce un año y se listan las películas de ese año.
+3. Buscar o filtrar información: mostrar  los libros que estén entre dos precios .
+4. Buscar información relacionada: indica el nombre de un actor o de un personaje y aparece el titulo de la película.
+5. Ejercicio libre: indica una película y muestra los nombre de los personajes y el nombre del actor que lo interpreta.
+
